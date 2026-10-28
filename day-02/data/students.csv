@@ -1,0 +1,9 @@
+student_id,name,age,department,marks,attendance
+101,Aarav,21,AI,85,92
+102,Priya,22,Data Science,91,96
+103,Rohan,20,Machine Learning,78,81
+104,Sneha,21,AI,,89
+105,Anaya,22,Data Science,88,95
+106,Kabir,,Machine Learning,72,78
+107,Isha,20,AI,85,92
+105,Anaya,22,Data Science,88,95

@@ -1,0 +1,7 @@
+column,data_type,missing_values,missing_percentage,unique_values
+student_id,int64,0,0.0,7
+name,object,0,0.0,7
+age,float64,1,12.5,3
+department,object,0,0.0,3
+marks,float64,1,12.5,5
+attendance,int64,0,0.0,6
