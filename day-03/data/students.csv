@@ -1,0 +1,21 @@
+student_id,department,study_hours,attendance,marks,passed
+101,AI,2,65,48,No
+102,Data Science,5,90,82,Yes
+103,AI,4,85,75,Yes
+104,Machine Learning,1,55,35,No
+105,Data Science,6,95,91,Yes
+106,AI,3,75,62,Yes
+107,Machine Learning,2,60,42,No
+108,Data Science,5,88,80,Yes
+109,AI,1,50,30,No
+110,Machine Learning,4,80,70,Yes
+111,Data Science,3,78,65,Yes
+112,AI,6,96,94,Yes
+113,Machine Learning,2,58,40,No
+114,Data Science,4,84,74,Yes
+115,AI,3,70,55,No
+116,Machine Learning,5,92,86,Yes
+117,Data Science,2,62,45,No
+118,AI,5,89,83,Yes
+119,Machine Learning,3,73,60,Yes
+120,Data Science,1,48,28,No
