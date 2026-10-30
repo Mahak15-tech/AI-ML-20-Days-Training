@@ -1,0 +1,4 @@
+split,rows,positive_class_rate
+Train,600,0.24833333333333332
+Validation,200,0.25
+Test,200,0.25
