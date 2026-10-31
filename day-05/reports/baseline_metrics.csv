@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1_score
+Dummy Classifier,0.695,0.0,0.0,0.0
+Logistic Regression,0.82,0.6984126984126984,0.7213114754098361,0.7096774193548387
