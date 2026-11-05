@@ -1,0 +1,5 @@
+column,data_type,missing_values,unique_values
+study_hours,float64,12,74
+attendance,float64,0,297
+department,object,10,3
+passed,int64,0,2
