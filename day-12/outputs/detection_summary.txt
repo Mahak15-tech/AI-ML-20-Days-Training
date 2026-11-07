@@ -1,0 +1,6 @@
+input.png: 8 detections
+test_image.png: 16 detections
+
+Images processed: 2
+Total detections: 24
+Confidence threshold: 0.25
