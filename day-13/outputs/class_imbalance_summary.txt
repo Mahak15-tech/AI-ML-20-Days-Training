@@ -1,0 +1,30 @@
+CLASS DISTRIBUTION ANALYSIS
+========================================
+Total annotated objects: 929
+Unique classes: 71
+
+TOP 10 CLASSES
+----------------------------------------
+Class 0: 254 objects (27.34%)
+Class 2: 46 objects (4.95%)
+Class 41: 36 objects (3.88%)
+Class 56: 35 objects (3.77%)
+Class 73: 29 objects (3.12%)
+Class 45: 28 objects (3.01%)
+Class 51: 24 objects (2.58%)
+Class 44: 22 objects (2.37%)
+Class 77: 21 objects (2.26%)
+Class 26: 19 objects (2.05%)
+
+LEAST FREQUENT CLASSES
+----------------------------------------
+Class 21: 1 objects
+Class 30: 1 objects
+Class 46: 1 objects
+Class 76: 1 objects
+Class 11: 2 objects
+Class 17: 2 objects
+Class 48: 2 objects
+Class 52: 2 objects
+Class 61: 2 objects
+Class 62: 2 objects
