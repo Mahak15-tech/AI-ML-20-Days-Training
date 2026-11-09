@@ -149,20 +149,20 @@ Each daily folder will contain its own implementation and documentation. The roo
 ## Progress Tracker
 
 - [x] Day 01 — Python project setup and CSV row-counting CLI
-- [ ] Day 02 — NumPy and Pandas
-- [ ] Day 03 — Exploratory data analysis
-- [ ] Day 04 — Statistics, splits, and leakage
-- [ ] Day 05 — Baseline model and checkpoint
-- [ ] Day 06 — Preprocessing and feature engineering
-- [ ] Day 07 — Classification models
-- [ ] Day 08 — Evaluation metrics and imbalanced data
-- [ ] Day 09 — Error analysis and explainability
-- [ ] Day 10 — Tabular ML mini-project
-- [ ] Day 11 — Computer vision foundations
-- [ ] Day 12 — YOLO inference
-- [ ] Day 13 — Dataset quality assurance
-- [ ] Day 14 — YOLO fine-tuning
-- [ ] Day 15 — Detection evaluation and checkpoint
+- [x] Day 02 — NumPy and Pandas
+- [x] Day 03 — Exploratory data analysis
+- [x] Day 04 — Statistics, splits, and leakage
+- [x] Day 05 — Baseline model and checkpoint
+- [x] Day 06 — Preprocessing and feature engineering
+- [x] Day 07 — Classification models
+- [x] Day 08 — Evaluation metrics and imbalanced data
+- [x] Day 09 — Error analysis and explainability
+- [x] Day 10 — Tabular ML mini-project
+- [x] Day 11 — Computer vision foundations
+- [x] Day 12 — YOLO inference
+- [x] Day 13 — Dataset quality assurance
+- [x] Day 14 — YOLO fine-tuning
+- [x] Day 15 — Detection evaluation and checkpoint
 - [ ] Day 16 — FastAPI inference
 - [ ] Day 17 — Testing and performance
 - [ ] Day 18 — Capstone integration
