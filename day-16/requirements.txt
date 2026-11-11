@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+ultralytics==8.4.204
+python-multipart
+pillow
+opencv-python
+pytest
+httpx
