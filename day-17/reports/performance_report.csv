@@ -1,0 +1,6 @@
+Metric,Value
+successful_requests,5
+average_api_response_ms,161.41
+minimum_api_response_ms,156.15
+maximum_api_response_ms,167.18
+average_model_inference_ms,92.6
