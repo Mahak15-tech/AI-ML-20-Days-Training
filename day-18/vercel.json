@@ -1,19 +1,37 @@
+
 {
   "services": {
-    "app": {
-      "root": ".",
-      "framework": "fastapi"
-    },
     "frontend": {
-      "root": "frontend",
-      "framework": "vite"
+      "root": "frontend/"
+    },
+    "backend": {
+      "root": "backend/",
+      "entrypoint": "main.py"
     }
   },
   "rewrites": [
     {
+      "source": "/health",
+      "destination": {
+        "service": "backend"
+      }
+    },
+    {
+      "source": "/predict",
+      "destination": {
+        "service": "backend"
+      }
+    },
+    {
+      "source": "/outputs/(.*)",
+      "destination": {
+        "service": "backend"
+      }
+    },
+    {
       "source": "/(.*)",
       "destination": {
-        "service": "app"
+        "service": "frontend"
       }
     }
   ]
