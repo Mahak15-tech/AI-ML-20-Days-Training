@@ -18,20 +18,11 @@ from ultralytics import YOLO
 # PATHS
 # --------------------------------------------------
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-ROOT_DIR = BASE_DIR.parent
+BASE_DIR = Path(__file__).resolve().parent
 
-MODEL_PATH = (
-    ROOT_DIR
-    / "day-14"
-    / "outputs"
-    / "yolov8n_finetuned"
-    / "weights"
-    / "best.pt"
-)
+MODEL_PATH = BASE_DIR / "models" / "best.pt"
 
 OUTPUT_DIR = BASE_DIR / "outputs"
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 # --------------------------------------------------
