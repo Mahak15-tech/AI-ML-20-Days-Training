@@ -3,7 +3,7 @@ from io import BytesIO
 from time import perf_counter
 from uuid import uuid4
 import os
-
+import tempfile
 import cv2
 import numpy as np
 from PIL import Image, UnidentifiedImageError
@@ -22,8 +22,8 @@ BASE_DIR = Path(__file__).resolve().parent
 
 MODEL_PATH = BASE_DIR / "models" / "best.pt"
 
-OUTPUT_DIR = BASE_DIR / "outputs"
-
+OUTPUT_DIR = Path(tempfile.gettempdir()) / "yolo_outputs"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # --------------------------------------------------
 # MODEL
