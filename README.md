@@ -163,11 +163,11 @@ Each daily folder will contain its own implementation and documentation. The roo
 - [x] Day 13 — Dataset quality assurance
 - [x] Day 14 — YOLO fine-tuning
 - [x] Day 15 — Detection evaluation and checkpoint
-- [ ] Day 16 — FastAPI inference
-- [ ] Day 17 — Testing and performance
-- [ ] Day 18 — Capstone integration
-- [ ] Day 19 — Robustness, ethics, and model card
-- [ ] Day 20 — Final demo and technical review
+- [x] Day 16 — FastAPI inference
+- [x] Day 17 — Testing and performance
+- [x] Day 18 — Capstone integration
+- [x] Day 19 — Robustness, ethics, and model card
+- [x] Day 20 — Final demo and technical review
 
 ## References
 
